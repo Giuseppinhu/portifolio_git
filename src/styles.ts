@@ -6,6 +6,7 @@ const GlobalStyle = createGlobalStyle`
   padding: 0;
   box-sixing: border-box;
   font-family: 'Roboto';
+  list-style: none;
 }
   body {
     padding-top: 80px;
